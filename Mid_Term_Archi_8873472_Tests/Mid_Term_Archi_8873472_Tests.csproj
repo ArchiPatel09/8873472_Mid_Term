@@ -118,6 +118,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Mid_Term_Archi_8873472\Mid_Term_Archi_8873472.csproj">
+      <Project>{ff2b6855-3334-47d3-8fe9-579e16ed23d6}</Project>
+      <Name>Mid_Term_Archi_8873472</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

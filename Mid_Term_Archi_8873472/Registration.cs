@@ -17,7 +17,7 @@ namespace Mid_Term_Archi_8873472
         // </summary>
         // <param name="name">The student's name.</param>
         // <returns>The registered student's name.</returns>
-        public string RegisterName(string name)
+        public static string RegisterName(string name)
         {
             if (string.IsNullOrEmpty(name))
             {
@@ -37,7 +37,7 @@ namespace Mid_Term_Archi_8873472
         // </summary>
         // <param name="age">The student's age.</param>
         // <returns>The registered student's age.</returns>
-        public int RegisterAge(int age)
+        public static int RegisterAge(int age)
         {
             if (age < 0)
             {
@@ -57,7 +57,7 @@ namespace Mid_Term_Archi_8873472
         // </summary>
         // <param name="groupSize">The size of the group.</param>
         // <returns>The registered group size.</returns>
-        public int RegisterGroupSize(int groupSize)
+        public static int RegisterGroupSize(int groupSize)
         {
             if (groupSize <= 0)
             {

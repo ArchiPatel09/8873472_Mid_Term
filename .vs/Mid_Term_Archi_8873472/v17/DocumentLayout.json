@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Mid_Term_Archi_8873472\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF2B6855-3334-47D3-8FE9-579E16ED23D6}|Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472.csproj|c:\\users\\archi\\onedrive - conestoga college\\desktop\\programs\\level-4 of cpa\\prog2070  - psqa\\mid_term_archi_8873472\\mid_term_archi_8873472\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF2B6855-3334-47D3-8FE9-579E16ED23D6}|Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472.csproj|C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Mid_Term_Archi_8873472\\mid_term_archi_8873472\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2B6855-3334-47D3-8FE9-579E16ED23D6}|Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472.csproj|solutionrelative:mid_term_archi_8873472\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2B6855-3334-47D3-8FE9-579E16ED23D6}|Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472.csproj|C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Mid_Term_Archi_8873472\\mid_term_archi_8873472\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF2B6855-3334-47D3-8FE9-579E16ED23D6}|Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472.csproj|solutionrelative:mid_term_archi_8873472\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A705A8A3-F410-4DD2-BA71-FE6EE26503D5}|Mid_Term_Archi_8873472_Tests\\Mid_Term_Archi_8873472_Tests.csproj|c:\\users\\archi\\onedrive - conestoga college\\desktop\\programs\\level-4 of cpa\\prog2070  - psqa\\mid_term_archi_8873472\\mid_term_archi_8873472_tests\\registration_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A705A8A3-F410-4DD2-BA71-FE6EE26503D5}|Mid_Term_Archi_8873472_Tests\\Mid_Term_Archi_8873472_Tests.csproj|solutionrelative:mid_term_archi_8873472_tests\\registration_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF2B6855-3334-47D3-8FE9-579E16ED23D6}|Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472.csproj|c:\\users\\archi\\onedrive - conestoga college\\desktop\\programs\\level-4 of cpa\\prog2070  - psqa\\mid_term_archi_8873472\\mid_term_archi_8873472\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF2B6855-3334-47D3-8FE9-579E16ED23D6}|Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472.csproj|solutionrelative:mid_term_archi_8873472\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472\\Registration.cs",
               "RelativeDocumentMoniker": "Mid_Term_Archi_8873472\\Registration.cs",
               "ToolTip": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472\\Registration.cs",
               "RelativeToolTip": "Mid_Term_Archi_8873472\\Registration.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAYwEgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T19:11:20.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Registration_Tests.cs",
               "DocumentMoniker": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472_Tests\\Registration_Tests.cs",
               "RelativeDocumentMoniker": "Mid_Term_Archi_8873472_Tests\\Registration_Tests.cs",
               "ToolTip": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472_Tests\\Registration_Tests.cs",
               "RelativeToolTip": "Mid_Term_Archi_8873472_Tests\\Registration_Tests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAiwH0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T19:10:52.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472\\Program.cs",
               "RelativeDocumentMoniker": "Mid_Term_Archi_8873472\\Program.cs",
               "ToolTip": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Mid_Term_Archi_8873472\\Mid_Term_Archi_8873472\\Program.cs",
               "RelativeToolTip": "Mid_Term_Archi_8873472\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T19:09:46.305Z",
               "EditorCaption": ""
